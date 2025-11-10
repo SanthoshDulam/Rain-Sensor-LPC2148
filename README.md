@@ -159,17 +159,3 @@ Alert
 This project is open-source under the **MIT License**.
 
 ---
-
-### 🗂 Recommended Folder Structure
-
-```
-Rain-Sensor-LPC2148/
-│
-├── rain_sensor.c
-├── Documentation/
-│   ├── Final_Report.docx
-│   ├── Circuit_Diagram.jpg
-│   ├── Output_Photo.jpg
-│
-└── README.md
-
